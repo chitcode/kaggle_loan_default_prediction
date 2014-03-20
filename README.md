@@ -12,3 +12,10 @@ private score board - 0.53508 , rank - 91/677
 
 
 With minor changes like log(loss) could perform better. 
+
+
+
+### Note
+
+Notebook url for the Final_Submission.ipynb http://goo.gl/D3VNFr 
+
